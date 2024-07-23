@@ -10,7 +10,7 @@
     <form action="gestione-dati.php" method="POST">
         <label for="">Inserisci Testo</label> <br>
         <textarea name="paragrafo" id=""></textarea><br>
-        <label for="">Inserisci Testo</label> <br>
+        <label for="">Inserisci parola da sostituire al testo</label> <br>
         <input name="parola" type="text" placeholder="parola da nascondere"><br>
         <button type="submit">Invia</button>
     </form>
